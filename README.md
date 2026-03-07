@@ -7,9 +7,9 @@ The dashboard analyzes healthcare data to provide insights into patient demograp
 
 ## Tools & Technologies
 
-- * Microsoft Power BI
-- * Healthcare Dataset (Kaggle)
-- * Data Visualization & Analytics
+* Microsoft Power BI
+* Healthcare Dataset (Kaggle)
+* Data Visualization & Analytics
 
 ---
 
