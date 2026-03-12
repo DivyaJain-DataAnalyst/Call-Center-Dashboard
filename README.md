@@ -76,6 +76,12 @@ This helps in understanding **customer behavior and service performance**.
 
 ---
 
+# 📂 Files
+
+- `Call Center Dashboard.pbix` → Power BI Dashboard File
+
+---
+
 # 📊 Dataset
 
 Call Center Dataset Source (GitHub)
@@ -105,13 +111,13 @@ The dashboard enables organizations to make **data-driven decisions to improve c
 Below are some previews of the Power BI dashboard.
 
 ### 🟢 Call Center Overview Dashboard
-![Overview](images/overview-dashboard.jpg)
+![overview-dashboard.jpg](images/overview-dashboard.jpg)
 
 ### 🔵 Call Channel & Sentiment Analysis Dashboard
-![Performance](images/performance-dashboard.jpg)
+![performance-dashboard.jpg](images/performance-dashboard.jpg)
 
 ### 🟣 Call Data Grid Dashboard
-![Insights](images/call-insights-dashboard.jpg)
+![call-insights-dashboard.jpg](images/call-insights-dashboard.jpg)
 
 ---
 
