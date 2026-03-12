@@ -105,13 +105,13 @@ The dashboard enables organizations to make **data-driven decisions to improve c
 Below are some previews of the Power BI dashboard.
 
 ### 🟢 Call Center Overview Dashboard
-![call-center-overview-dashboard](images/call-center-overview-dashboard.png)
+![call-center-overview-dashboard](images/call-center-overview-dashboard.JPG)
 
 ### 🔵 Call Channel & Sentiment Analysis Dashboard
-![agent-performance-dashboard](images/agent-performance-dashboard.png)
+![agent-performance-dashboard](images/agent-performance-dashboard.JPG)
 
 ### 🟣 Call Data Grid Dashboard
-![call-insights-dashboard](images/call-insights-dashboard.png)
+![call-insights-dashboard](images/call-insights-dashboard.JPG)
 
 ---
 
