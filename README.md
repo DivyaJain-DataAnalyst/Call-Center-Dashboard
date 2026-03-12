@@ -22,8 +22,6 @@ The goal of this project is to transform raw call center data into meaningful vi
 
 The project contains **three analytical dashboard pages** designed to provide a complete overview of call center performance.
 
----
-
 ## 1️⃣ Call Center Overview
 
 This page provides a **high-level summary of call center operations**.
@@ -78,17 +76,11 @@ This helps in understanding **customer behavior and service performance**.
 
 ---
 
-# 📂 Files
-
-- `Call Center Dashboard.pbix` → Power BI Dashboard File
-
----
-
 # 📊 Dataset
 
-Call Center Dataset – Kaggle  
+Call Center Dataset Source (GitHub)
 
-https://www.kaggle.com
+Dataset used for this project was obtained from a public GitHub repository containing sample call center data for analytics and visualization.
 
 ---
 
@@ -105,6 +97,21 @@ https://app.powerbi.com/view?r=eyJrIjoiYmQwOWE2ODQtOTdhZC00OGE5LTkyNjctZjNkYmUwN
 The objective of this project is to convert raw call center data into interactive visual dashboards that help analyze **customer service performance, agent efficiency, and call resolution trends**.
 
 The dashboard enables organizations to make **data-driven decisions to improve customer support operations**.
+
+---
+
+# 📷 Dashboard Screenshots
+
+Below are some previews of the Power BI dashboard.
+
+### 🟢 Call Center Overview Dashboard
+![Call Center Overview](images/call-center-overview-dashboard.png)
+
+### 🔵 Call Channel & Sentiment Analysis Dashboard
+![Agent Performance](images/agent-performance-dashboard.png)
+
+### 🟣 Call Data Grid Dashboard
+![Call Insights](images/call-insights-dashboard.png)
 
 ---
 
